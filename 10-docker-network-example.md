@@ -55,7 +55,7 @@ $ docker run --name phpmyadmin -d -e PMA_HOST=172.21.0.2 -p 8080:80 phpmyadmin/p
 ပြီးနောက် phpmyadmin container ကို my-bridge-network ထဲ add လိုက်ပါ။
 
 ```text
-$ docker network inspect my-bridge-network
+$ docker network connect my-bridge-network phpmyadmin
 ```
 
 ## My-bridge-network Network ရဲ့ အချက်အလက် ကိုကြည့်ခြင်း။
