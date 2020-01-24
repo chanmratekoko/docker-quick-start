@@ -6,7 +6,7 @@
 
 ```
 $ mkdir dockercompose && cd dockercompose
-$ mkdir webapp && echo "It Works"; webapp/index.html
+$ mkdir webapp && echo "It Works"> webapp/index.html
 ```
 
 ### Step 2 – Create Dockerfile for Webapp 
