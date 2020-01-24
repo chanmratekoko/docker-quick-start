@@ -10,7 +10,7 @@ Docker Compose ပြုလုပ်ရန် အဆင့် \(3\) ဆင့်
 * မိမိ Enviroment အတွက် သုံးမည့် Service and Application များကို docker-file အဖြစ်ပြုလုပ်ပြီး sample.yml format ဖြင့် သိမ်းဆည်းရမည်။
 * Run docker-compose up  Command ဖြင့် Docker Containers Services များကို Run နိုင်သည်။
 
-**စက်တွင် Docker Enginer ရှိဖို့လိုပါသည်။ မရှိလျှင် Docker Engine Installation Section တွင်လေ့လာနိုင်ပါသည်။**
+**စက်တွင် Docker Engine ရှိဖို့လိုပါသည်။ မရှိလျှင် Docker Engine Installation Section တွင်လေ့လာနိုင်ပါသည်။**
 
 ## Install Docker Compose
 
